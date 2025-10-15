@@ -1,6 +1,23 @@
 
 # Hello World: AWS Lambda & Gateway Services en Java
 
+
+## 🎥 Video
+
+Haz clic para ver el video:
+
+<p align="center">
+  <a href="https://youtu.be/skghPHthtDY">
+    <img 
+      src="https://img.youtube.com/vi/skghPHthtDY/maxresdefault.jpg" 
+      alt="Evidencias de funcionamiento correcto" 
+      width="700"
+    >
+  </a>
+</p>
+
+
+
 ## Crear la función lambda
 
 Se crea la función desde Lambda:
