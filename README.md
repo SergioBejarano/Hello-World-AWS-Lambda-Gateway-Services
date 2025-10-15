@@ -86,3 +86,16 @@ Y se hace la prueba desde el navegador:
 
 
 
+## Security
+
+
+Se crea nueva función lambda para login y se carga nuevamente el .jar actualizado con la implementación de la clase SecurityUtils:
+
+<img width="2879" height="1554" alt="image" src="https://github.com/user-attachments/assets/1537071f-4bb2-49c6-8f3c-2b6218032028" />
+
+
+Ahora se crea el recurso de login en el API Gateway y se realiza prueba:
+
+<img width="2879" height="1560" alt="image" src="https://github.com/user-attachments/assets/1dfe7471-bb2a-41f3-9d06-fddc6c7c28ec" />
+
+
